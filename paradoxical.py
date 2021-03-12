@@ -1,4 +1,4 @@
-answer = input("do you always lie")
+answer = input("do you lie")
 if answer != (""):
     print("your a liar")
 
